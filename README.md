@@ -32,3 +32,9 @@ Agreement stats showed high alignment on clear positives and negatives, with som
 For this sample: perfect agreement on strong sentiments, but VADER occasionally labeled borderline neutrals as negative.
 
 Insights highlight VADER’s speed and RoBERTa’s nuance, forming the basis for a hybrid “fast‑then‑deep” pipeline in future runs.
+
+# Final Comparison of both pipelines on same batch text
+<img width="1379" height="439" alt="image" src="https://github.com/user-attachments/assets/d1d01687-2419-4dbf-919d-50698fb269a8" />
+<img width="860" height="388" alt="image" src="https://github.com/user-attachments/assets/d231ab51-7943-4ad8-a8c2-159308c8b884" />
+
+
